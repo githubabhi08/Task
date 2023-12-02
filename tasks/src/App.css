@@ -1,0 +1,426 @@
+.navbar-nav{
+  position: relative;
+  left: 67%;
+  top: 0;
+}
+.navbar-brand{
+  position: relative;
+  left: 8%;
+  font-size: 27px;
+  font-weight: 700;
+}
+.navbar{
+  height: 4.7rem;
+}
+
+.btn-lg{
+  color: black;
+  font-weight: 500;
+}
+.top{
+  background-color: rgb(248, 198, 124);
+}
+
+.rima{
+  width: 19.9rem;
+  background-color: white;
+  height: 2.5rem;
+  position: relative;
+  top: 4rem;
+  left: 40%;
+}
+
+.one{
+  position: relative;
+  top: 9rem;
+  left: 29%;
+  font-weight: 900;
+ font-size: 57px;
+  
+}
+
+.two{
+  position: relative;
+  top: 9.2rem;
+  left: 39%;
+  font-weight: 900;
+  font-size: 57px;
+}
+
+.rima2{
+  position: relative;
+  top: 10rem;
+  left: 37%;
+}
+.rema2{
+  position: relative;
+  top: 10rem;
+  left: 40%;
+}
+
+.bn{
+  position: relative;
+  top: 12rem;
+  left:50%;
+}
+
+.bt1{
+  border-radius: 20%;
+  color: white;
+  left: -90px;
+  position: absolute;
+}
+
+.bt2{
+  position: absolute;
+  left: 90px;
+  border-radius: 12%;
+  color: rgb(8, 8, 8);
+}
+
+.ban{
+  position: relative;
+  top: 95px;
+  left: 12%;
+}
+
+.ban img{
+  width: 70%;
+
+}
+
+.ban img:hover{
+  width: 80%;
+  height: 80%;
+  transition: all .80s;
+}
+
+.tog2{
+  position: relative;
+  top: 10rem;
+  left: 38%;
+  width: 19.9rem;
+  background-color: white;
+  height: 2.5rem;
+ color: blueviolet;
+}
+
+.str{
+  position: relative;
+  top: 11rem;
+  left: 32%;
+}
+
+.str .me{
+  position: absolute;
+  left: 7%;
+}
+
+.main{
+  top: 14rem;
+  position: relative;
+  left: 2rem;
+  background-color: bisque;
+  height: 27rem;
+}
+.ngt h1{
+  font-size: 32px;
+  font-weight: 700;
+  margin-left: 5rem;
+  position: relative;
+  top: 1rem;
+}
+
+.ngt2 img{
+  position: relative;
+  top: 1rem;
+  width: 95%;
+  height: max-content;
+  left: 1rem;
+}
+
+.card{
+  position: absolute;
+  top: 4rem;
+  height:95%;
+  left: 10rem;
+}
+
+.card2{
+  position: absolute;
+  top: 1rem;
+  height: 95%;
+  left: 10rem;
+}
+
+.nic{
+  position: relative;
+  top: 17rem;
+  margin-bottom: 15rem;
+  margin-right: 2rem;
+  /* background-color:  rgb(248, 198, 124); */
+}
+
+
+
+
+.box{
+  position: relative;
+  left: 0;
+  top: 15rem;
+  width: 100%;
+  height: 110rem;
+  background-color: rgba(0, 0, 0, 0.929);
+  z-index: 1;
+}
+.box button {
+  position: absolute;
+  left: 11%;
+  top: 4rem;
+  width: 12rem;
+  
+}
+
+.car span{
+  color: brown;
+}
+
+.car{
+  position: absolute;
+  left: 10rem;
+  top:8rem ;
+  
+}
+.box  .abh h1{
+  font-size: 47px;
+  font-weight: 900;
+}
+.box .abh p{
+  position: absolute;
+  left: 10rem;
+  top:18rem ;
+  font-size: 24px;
+  font-weight: 700;
+}
+
+.box .card{
+  position: absolute;
+  top: 27rem;
+  background-color: aliceblue;
+  font-weight: 500;
+  left: 12rem;
+  z-index: 2;
+  width: 20rem;
+  height: 25rem;
+}
+.box .card:hover{
+  position: absolute;
+  top: 25rem;
+  transition: all .4s;
+}
+
+
+.box .card .card-text{
+  position: absolute;
+  top: 7.7rem;
+  
+  font-weight: 570;
+  color: blue;
+}
+
+.box .card .card-title{
+  position: absolute;
+  top: 1.7rem;
+  left: 2rem;
+  font-size: 25px;
+  font-weight: 870;
+  color: blue;
+}
+
+.bold{
+  position: absolute;
+  top: 55rem;
+  left: 37%;
+}
+.bold span{
+  position: absolute;
+  left: 30%;
+}
+
+.bold2{
+  position: absolute;
+  top: 67rem;
+  left: 32%;
+}
+
+.bold2 span{
+  position: absolute;
+  left: 17%;
+}
+
+.rock{
+  position: absolute;
+  top: 77rem;
+  left: 17%;
+}
+
+.box2{
+  position: relative;
+  top: 20rem;
+}
+
+.lft{
+  position: relative;
+  margin-left: 50px;
+}
+.lft .ad{
+  position: absolute;
+  left: 0rem;
+  top: 10rem;
+}
+
+.last span {
+  color: brown;
+}
+
+.last .akela{
+  position: absolute;
+  left: 50%;
+  top: 22rem;
+}
+
+.last .casr h1,h3 {
+  position: absolute;
+  left: 35%;
+  top: 27rem;
+}
+
+.casr h3{
+  position: absolute;
+  top: 32rem;
+  left: 32%;
+}
+
+.last2{
+  position: relative;
+  top: 57rem;
+  
+}
+.last2 .row{
+  opacity: 0.4;
+  right: 19rem;
+}
+
+.last2 .row:hover{
+  opacity: 1;
+  transition: all .9s;
+  
+}
+
+.last2 .card-body{
+  height: 32rem;
+  width: 29rem;
+  position: absolute;
+  right: 9rem;
+  background-color: antiquewhite;
+  
+}
+
+.last2 .abh{
+  position: absolute;
+  top: 27rem;
+  left: 2rem;
+}
+
+.last2 .card-text .ab{
+  position: absolute;
+  top: 10rem;
+  left: 7rem;
+}
+.last2 .row h3{
+  position: absolute;
+  left: 10rem;
+  top: 3rem;
+}
+
+
+.last3{
+  position: relative;
+  top: 97rem;
+  left: -5rem;
+}
+
+.last3 button{
+  position: absolute;
+  left: 10%;
+}
+
+.last3  h4{
+  position: absolute;
+  left: 30%;
+  top: 5rem;
+}
+
+.last3  h1{
+  position: absolute;
+  left: 30%;
+  top: 5rem;
+}
+
+.last3  h4{
+  position: absolute;
+  
+  top: 10rem;
+}
+
+.last3 span{
+color: brown;
+} 
+
+.last3 .card{
+  position: absolute;
+  top: 20rem;
+  width: 25rem;
+ right: -7rem;
+ height: 30rem;
+ background-color: bisque;
+}
+.last3 .card-text h4{
+  position: absolute;
+  top: 2rem;
+  font-size: 25px;
+  right: 7rem;
+}
+
+.akki{
+  position: relative;
+  top: 157rem;
+  right: 10rem;
+}
+.akki .card-body{
+  
+  height: 30rem;
+}
+.akki span {
+  color: brown;
+}
+
+.ring{
+  position: relative;
+  top: 157rem;
+  background-color: blanchedalmond;
+  color: rgb(3, 3, 3);
+  width: 100%;
+  height: 15rem;
+
+}
+.ring .sde{
+  position: absolute;
+  left: 87%;
+  top: 5rem;
+}
+.ring h4{
+  position: absolute;
+  left: 2%;
+  top: 12rem;
+}
