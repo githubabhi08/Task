@@ -22,7 +22,7 @@ function App() {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <div className="container-fluid">
             <h1 className="navbar-brand" href="#">
-              Abhigt
+              Abhi
             </h1>
 
             <div className="collapse navbar-collapse" id="navbarSupportedContent">
